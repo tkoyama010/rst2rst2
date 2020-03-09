@@ -42,7 +42,6 @@ jobs:
       uses: jpetrucciani/mypy-check@0.761
       with:
         path: .
-    - name: Test with pytest
+    - name: Test with unittest
       run: |
-        pip install pytest
-        pytest ./tests/tests.py
+        cd ./tests && python tests.py
