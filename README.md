@@ -19,3 +19,5 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2020)
 ![PyPI - Format](https://img.shields.io/pypi/format/rst2rst2)
 [![Documentation Status](https://readthedocs.org/projects/rst2rst2/badge/?version=latest)](https://rst2rst2.readthedocs.io/en/latest/?badge=latest)
+
+_rst2rst2_ is the uncompromising reStructuredText formatter.
